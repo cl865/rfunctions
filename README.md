@@ -1,6 +1,10 @@
 # rfunctions
 
-Compilation of potentially useful r functions
+Compilation of potentially useful r functions.
+
+## APA_cor
+
+Generates a APA formatted correlation matrix from a dataframe, and exports into a .csv file. 
 
 ## rmdConvert
 
